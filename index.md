@@ -33,3 +33,7 @@ Vol. 18(4-5) 395–412. https://doi.org/10.1177/1367549415577392
 - Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. Big Data & Society. https://doi.org/10.1177/2053951718756684
 - Rahman, J. (2012). The N Word: Its History and Use in the African American Community. Journal of English Linguistics, 40(2), 137–171. https://doi.org/10.1177/0075424211414807
 - Bonus! Here is a paper about fairness from a cross-disciplinary perspective. Andrew D. Selbst, Danah Boyd, Sorelle A. Friedler, Suresh Venkatasubramanian, Janet Vertesi: Fairness and Abstraction in Sociotechnical Systems. FAT 2019: 59-68 https://dl.acm.org/citation.cfm?doid=3287560.3287598   ]
+
+### Slides
+
+Slides for this tutorial will be uploaded soon.
