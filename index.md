@@ -25,3 +25,11 @@ We have a set of papers that we would suggest participants read – or attempt t
 - Harcourt, Bernard E., Against Prediction: Sentencing, Policing, and Punishing in an Actuarial Age (May 2005). U of Chicago, Public Law Working Paper No. 94.  Available at SSRN: https://ssrn.com/abstract=756945 or http://dx.doi.org/10.2139/ssrn.756945 (Here is a link to a pdf of a part of the book containing the first chapter (Actuarial Methods in the Criminal Law) https://surfdrive.surf.nl/files/index.php/s/FI3pqLSVTlEGO4x)
 - Thomas Davidson, Debasmita Bhattacharya, Ingmar Weber: Racial Bias in Hate Speech and Abusive Language Detection Datasets. (2019) https://www.aclweb.org/anthology/W19-3504/
 - Dirk Hovy: Demographic Factors Improve Classification Performance (2015) https://www.aclweb.org/anthology/P15-1073.pdf
+- Dirk Hovy, Afshin Rahimi, Timothy Baldwin, Julian Brooke: Visualizing Regional Language Variation Across Europe on Twitter. (2019) http://www.dirkhovy.com/portfolio/papers/download/eutweets_draft.pdf
+- Haraway, D. (1988) Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective, Feminist Studies; Fall 1988; 14, 3;
+- Striphas, T. (2015). Algorithmic culture. European Journal of Cultural Studies,
+Vol. 18(4-5) 395–412. https://doi.org/10.1177/1367549415577392
+- McQuillan, D. (2015). Algorithmic states of exception. European Journal of Cultural Studies, 18(4–5), 564–576. https://doi.org/10.1177/1367549415577389
+- Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. Big Data & Society. https://doi.org/10.1177/2053951718756684
+- Rahman, J. (2012). The N Word: Its History and Use in the African American Community. Journal of English Linguistics, 40(2), 137–171. https://doi.org/10.1177/0075424211414807
+- Bonus! Here is a paper about fairness from a cross-disciplinary perspective. Andrew D. Selbst, Danah Boyd, Sorelle A. Friedler, Suresh Venkatasubramanian, Janet Vertesi: Fairness and Abstraction in Sociotechnical Systems. FAT 2019: 59-68 https://dl.acm.org/citation.cfm?doid=3287560.3287598   ]
