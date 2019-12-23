@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## FAT*'2020 Translation Tutorial #4: Two computer scientists and a cultural scientist get hit by a driver-less car: A method for situating knowledge in the cross-disciplinary study of F-A-T in machine learning
 
-You can use the [editor on GitHub](https://github.com/fat2020tutorials/Situating-Knowledge-in-FAT/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This tutorial will build on the experiences gained in a previous workshop, where a group of artists, computer scientists, lawyers, activists, and social scientists collectively read and discussed a computer science paper. Here, we seek to replicate and test the practice of cross-disciplinary, collaborative paper-reading to a community interested in influencing, and being influenced by, the insights into methods that are available from fields external to their own. We will come to the tutorial having read a set of papers, and then have a discussion for about 40 minutes in small groups about what we read and how we read it. We will invite people to take on roles as ‘interpreters’ and ‘translators’; we will pair people from different disciplinary backgrounds to take on these roles in a group. We will then re-convene to share notes on how the discussions developed:  the moments where the different standards, goals and epistemologies across disciplines emerged, and how we dealt with them; how and if this is relevant to working in F-A-T disciplines; and to critically assess how and if this method might work in a classroom or other pedagogical context.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who will be delivering this tutorial?
 
-### Markdown
+- Maya Indira Ganesh, Centre for Digital Cultures/Cultural Studies Faculty, Leuphana University, Lueneburg, Germany. Maya is a doctoral candidate at Leuphana University whose work focuses on how computational ethics shapes the notion of an autonomous machine, and the changing role of the human in this.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Francien Dechesne,  eLaw Center for Law and Digital Technologies,  Leiden University Leiden, Netherlands. Francien is Assistant Professor at the Center for Law and Digital Technologies (eLaw). While situated in the Leiden Law School, Francien has a background in mathematics, computer science and philosophy. Her teaching and research are on Responsible Innovation and Ethics & Digital Technologies, in particular how datafication, computation and automation impact decision making processes.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fat2020tutorials/Situating-Knowledge-in-FAT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Zeerak Waseem, Department of Computer Science Natural Language Processing Group University of Sheffield, Sheffield, UK.  Zeerak is a doctoral student at the University of Sheffield in natural language processing where his work focuses on building and critiquing automated tools for content moderation.
