@@ -36,4 +36,4 @@ Vol. 18(4-5) 395–412. https://doi.org/10.1177/1367549415577392
 
 ### Slides
 
-Slides for this tutorial will be uploaded soon.
+Slides for this tutorial will be available here soon.
