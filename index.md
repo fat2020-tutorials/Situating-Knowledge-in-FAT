@@ -18,9 +18,14 @@ We welcome researchers from any discipline motivated by the challenges and oppor
 
 ### Instructions for participants
 
-We have a set of papers that we would suggest participants read – or attempt to read – beforehand. We encourage you to read three papers from this list – one in a discipline very close to what you do, and another that appears completely new and unfamiliar; and  Donna Haraway’s paper on situated knowledge that has framed this tutorial, and is considered inspirational to many of us working on these topics. We would like you to highlight pieces of text that are important to you in the papers you read and tell us why they are important; make notes; write down questions you have. Also, try to pay attention to how you find it reading from another discipline. There might be some basic things that are obviously different like the length of the paper, referencing and how it is laid out; and more substantial things like the way arguments are framed, how other literature is referenced, how conclusions are arrived at. And that’s just aside from how something is difficult to follow because you are not familiar with the material. Try to make a note of what you find challenging, what surprised you, and what you did not understand. How do you think you might benefit from reading a paper about your topic or area of study written from another disciplinary perspective and position? We want to hear about your experiences of reading and how you think this might give you insight into working across disciplines.  
+We have a set of papers that we would suggest participants read – or attempt to read – beforehand. With the time available for the tutorial, we have decided for thematic coherence over diversity. So we made F-A-T in NLP our focus. We encourage you to read two papers from this list – one in a discipline that appears completely new and unfamiliar and Donna Haraway’s paper on situated knowledge that has framed this tutorial, and is considered inspirational to many of us working on these topics. We would like you to highlight pieces of text that are important to you in the papers you read and tell us why they are important; make notes; write down questions you have. Also, try to pay attention to how you find it reading from another discipline. There might be some basic things that are obviously different like the length of the paper, referencing and how it is laid out; and more substantial things like the way arguments are framed, how other literature is referenced, how conclusions are arrived at. And that’s just aside from how something is difficult to follow because you are not familiar with the material. Try to make a note of what you find challenging, what surprised you, and what you did not understand. How do you think you might benefit from reading a paper about your topic or area of study written from another disciplinary perspective and position? We want to hear about your experiences of reading and how you think this might give you insight into working across disciplines.  
 
-- Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian: On the (im)possibility of fairness. (2016) https://arxiv.org/abs/1609.07236
+- Mohsen Abbasi, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian: Fairness in representation: quantifying stereotyping as a representational harm. (2019)  https://arxiv.org/abs/1901.09565
+- Thomas Davidson, Debasmita Bhattacharya, Ingmar Weber: Racial Bias in Hate Speech and Abusive Language Detection Datasets. (2019) https://www.aclweb.org/anthology/W19-3504/
+- Haraway, D. (1988) Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective, Feminist Studies; Fall 1988; 14, 3;
+- Rahman, J. (2012). The N Word: Its History and Use in the African American Community. Journal of English Linguistics, 40(2), 137–171. https://doi.org/10.1177/0075424211414807
+
+<!--- Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian: On the (im)possibility of fairness. (2016) https://arxiv.org/abs/1609.07236
 - Mohsen Abbasi, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian: Fairness in representation: quantifying stereotyping as a representational harm. (2019)  https://arxiv.org/abs/1901.09565
 - Harcourt, Bernard E., Against Prediction: Sentencing, Policing, and Punishing in an Actuarial Age (May 2005). U of Chicago, Public Law Working Paper No. 94.  Available at SSRN: https://ssrn.com/abstract=756945 or http://dx.doi.org/10.2139/ssrn.756945 (Here is a link to a pdf of a part of the book containing the first chapter (Actuarial Methods in the Criminal Law) https://surfdrive.surf.nl/files/index.php/s/FI3pqLSVTlEGO4x)
 - Thomas Davidson, Debasmita Bhattacharya, Ingmar Weber: Racial Bias in Hate Speech and Abusive Language Detection Datasets. (2019) https://www.aclweb.org/anthology/W19-3504/
@@ -33,7 +38,16 @@ Vol. 18(4-5) 395–412. https://doi.org/10.1177/1367549415577392
 - Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. Big Data & Society. https://doi.org/10.1177/2053951718756684
 - Rahman, J. (2012). The N Word: Its History and Use in the African American Community. Journal of English Linguistics, 40(2), 137–171. https://doi.org/10.1177/0075424211414807
 - Bonus! Here is a paper about fairness from a cross-disciplinary perspective. Andrew D. Selbst, Danah Boyd, Sorelle A. Friedler, Suresh Venkatasubramanian, Janet Vertesi: Fairness and Abstraction in Sociotechnical Systems. FAT 2019: 59-68 https://dl.acm.org/citation.cfm?doid=3287560.3287598   ]
+-->
 
-### Slides
+### Agenda
 
-Slides for this tutorial will be available here soon.
+*13:00-13:20*: Introductions
+
+*13:20-14:00*: Small group discussions
+
+*14:00-14:20*: Plenary discussion
+
+*14:20-14:30*: Wrap up
+
+
